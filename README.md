@@ -1,5 +1,1 @@
-http://www.naver.com
-
-[네이버](http://www.naver.com)
-
-[구글](https://google.com, "구글 사이트")
+![이미지 연습](https://ichef.bbci.co.uk/news/800/cpsprodpb/0E08/production/_122229530_2f.jpg)
