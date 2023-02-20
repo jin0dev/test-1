@@ -1,10 +1,5 @@
-소스 코드 삽입하기
+http://www.naver.com
 
-```
-<script>
-  var now = new Date();
-  var display = new.toLocaleTimeString();
-  document.write("현재 시작은 " + display);
-</script>
-```
+[네이버](http://www.naver.com)
 
+[구글](https://google.com, "구글 사이트")
