@@ -8,10 +8,3 @@
 </script>
 ```
 
-코드 입력 끝
-
-<script>
-  var now = new Date();
-  var display = new.toLocaleTimeString();
-  document.write("현재 시작은 " + display);
-</script>
