@@ -1,1 +1,2 @@
-![이미지 연습](https://ichef.bbci.co.uk/news/800/cpsprodpb/0E08/production/_122229530_2f.jpg)
+![행복 이미지1](./images/1.jpg)
+![행복 이미지2](./images/2.png)
